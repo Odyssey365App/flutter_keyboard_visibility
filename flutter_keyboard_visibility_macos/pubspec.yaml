@@ -16,7 +16,8 @@ flutter:
         dartPluginClass: FlutterKeyboardVisibilityPluginMacos
 
 dependencies:
-  flutter_keyboard_visibility_platform_interface: ^2.0.0
+  flutter_keyboard_visibility_platform_interface:
+    path: ../flutter_keyboard_visibility_platform_interface
   flutter:
     sdk: flutter
 
